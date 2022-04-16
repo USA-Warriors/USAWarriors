@@ -4,7 +4,7 @@ body, html {
 }
 
 body {
-  background-image: url("../img/bg-main.jpg");
+  background-image: url("./bg-main.jpg");
   background-size: cover;
   background-position: center center;
   position: relative;
