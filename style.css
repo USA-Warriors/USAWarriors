@@ -4,7 +4,7 @@ body, html {
 }
 
 body {
-  background-image: url("https://i.imgur.com/ieyWeJX.jpeg");
+  background-image: url("./top.jpg");
   background-size: cover;
   background-position: center center;
   position: relative;
@@ -29,7 +29,7 @@ body:before {
 .header {
   height: 550px;
   width: 100%;
-  background: url("./top.jpg");
+  background: url("https://i.imgur.com/ieyWeJX.jpeg");
   background-size: cover;
   background-position: center center;
   position: relative;
